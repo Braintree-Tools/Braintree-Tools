@@ -79,9 +79,9 @@
 </td>
 <td width="50%" valign="top" style="border: 1px solid #4A5568; padding: 20px; border-radius: 8px; margin: 5px;">
 
-### BRAINTREE Framework
+### IntelSec Framework
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=4000&pause=800&color=CBD5E0&width=450&height=100&lines=Comprehensive+Security+Testing+Suite;Multi-Vector+Attack+Framework;Custom+Payload+Generation;Professional+Reporting+Tools" alt="Braintree Framework" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&duration=4000&pause=800&color=CBD5E0&width=450&height=100&lines=Advanced+OSINT+Reconnaissance+Platform;Intelligence+Gathering+Framework;149+Wordlists+36M+Entries;Professional+CLI+Interface" alt="IntelSec Framework" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=A0AEC0&center=true&width=300&height=40&lines=Coming+Soon;In+Development" alt="Coming Soon" />
@@ -125,10 +125,16 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Braintree-Tools&theme=dark&background=2D3748&ring=A0AEC0&fire=E2E8F0&currStreakLabel=CBD5E0&sideNums=CBD5E0&currStreakNum=E2E8F0&dates=A0AEC0&sideLabels=CBD5E0&border=4A5568" alt="GitHub Streak" width="48%">
-</p>
+<table width="100%" style="border-collapse: collapse;">
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="100%">
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Braintree-Tools&theme=dark&background=2D3748&ring=A0AEC0&fire=E2E8F0&currStreakLabel=CBD5E0&sideNums=CBD5E0&currStreakNum=E2E8F0&dates=A0AEC0&sideLabels=CBD5E0&border=4A5568" alt="GitHub Streak" width="100%">
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braintree-Tools&layout=compact&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&border_color=4A5568&hide_border=false" alt="Top Languages" width="60%">
