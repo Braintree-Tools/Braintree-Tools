@@ -51,8 +51,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braintree-Tools&layout=compact&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&border_color=4A5568&hide_border=false" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="60%">
 </p>
 
 <!--START_SECTION:waka-->
