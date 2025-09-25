@@ -50,19 +50,9 @@
 
 ## GitHub Stats
 
-<table width="100%" style="border-collapse: collapse;">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="100%">
-</td>
-<td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com/?user=Braintree-Tools&theme=dark&background=2D3748&ring=A0AEC0&fire=E2E8F0&currStreakLabel=CBD5E0&sideNums=CBD5E0&currStreakNum=E2E8F0&dates=A0AEC0&sideLabels=CBD5E0&border=4A5568" alt="GitHub Streak" width="100%">
-</td>
-</tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braintree-Tools&layout=compact&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&border_color=4A5568&hide_border=false" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Braintree-Tools&show_icons=true&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&icon_color=A0AEC0&border_color=4A5568&hide_border=false" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braintree-Tools&layout=compact&theme=dark&bg_color=2D3748&title_color=E2E8F0&text_color=CBD5E0&border_color=4A5568&hide_border=false" alt="Top Languages" width="48%">
 </p>
 
 <!--START_SECTION:waka-->
